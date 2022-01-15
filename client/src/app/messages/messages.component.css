@@ -4,6 +4,7 @@
 
 .btn-danger {
     background-color: #df382c !important;
+    padding: 0.375rem 0.75rem !important;
 }
 
 .btn-danger:hover {
